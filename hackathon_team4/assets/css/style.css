@@ -4,3 +4,23 @@ body {
     position: relative;
     background-color: #000;
     color: #fff;
+}
+
+<--
+#bio {
+background-image:url('../images/jo.jpg');
+background-attachment: fixed;
+opacity:0.95;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+color:#2b2b2b;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.bio-text {
+   border: 1px solid white;
+   padding: 30px;
+   margin: 35px;
+   position: relative;
+   max-width: 500px;
+}
